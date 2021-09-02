@@ -23,6 +23,8 @@
 ## Github Stats  
 [![Asphyxia's GitHub stats](https://github-readme-stats.vercel.app/api?username=natizen448)](https://github.com/natizen448/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natizen448&layout=compact)](https://github.com/natizen448/github-readme-stats)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
