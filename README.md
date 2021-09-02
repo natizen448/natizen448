@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png" align="center" style="width: 100%" />
 </div>  
   
 
